@@ -66,10 +66,9 @@ git push origin dev
 
 | 成员 | 负责模块 |
 |------|----------|
-| 项目负责人 | backend/ + frontend/ |
-| 协作者 | miniprogram/ + 文档 |
+| 项目负责人 | all |
+| 协作者 | all |
 
-尽量修改自己负责的模块，减少冲突。
 
 ## 联系方式
 
